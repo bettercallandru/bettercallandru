@@ -41,5 +41,5 @@ Currently focused on strengthening my expertise in modern frontend technologies 
 
 ## Connect
 
-- LinkedIn: https://linkedin.com/in/tu-link
-- Email: tuemail@email.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bettercallandru/)
+- Email: adriansalgado.wtch@gmail.com
