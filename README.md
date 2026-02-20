@@ -1,16 +1,45 @@
-## Hi there 👋
+# Adrian Mauricio Salgado Cano
 
-<!--
-**bettercallandru/bettercallandru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 3+ years of experience building and modernizing enterprise web applications in the financial sector.
 
-Here are some ideas to get you started:
+I have contributed to large-scale platforms used across 15+ countries in Latin America, working on UI implementation, system modernization, and frontend architecture improvements within Java and JavaScript-based environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on strengthening my expertise in modern frontend technologies such as React and TypeScript, aiming to build scalable, maintainable, and performance-driven applications.
+
+---
+
+## Tech Stack
+
+**Frontend**
+- React
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Material UI
+
+**Backend Integration**
+- Java (PrimeFaces)
+- REST APIs
+- PL/SQL
+
+**Tools & Workflow**
+- Git
+- GitHub
+- Agile / Sprint methodology
+
+---
+
+## Current Focus
+
+- Frontend architecture best practices
+- Performance optimization
+- Clean and scalable component design
+- Building production-ready React projects
+
+---
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/tu-link
+- Email: tuemail@email.com
