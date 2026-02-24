@@ -1,16 +1,16 @@
-# Adrian Mauricio Salgado Cano
+# Adrian Mauricio Salgado
 
-Frontend Developer with 3+ years of experience building and modernizing enterprise web applications in the financial sector.
+Frontend Developer focused on building scalable, high-performance web applications with React and TypeScript.
 
-I have contributed to large-scale platforms used across 15+ countries in Latin America, working on UI implementation, system modernization, and frontend architecture improvements within Java and JavaScript-based environments.
+With 3+ years of experience contributing to enterprise financial platforms operating across 15+ countries in Latin America, I have worked on UI modernization, frontend architecture improvements, and production-ready feature development within complex systems.
 
-Currently focused on strengthening my expertise in modern frontend technologies such as React and TypeScript, aiming to build scalable, maintainable, and performance-driven applications.
+I am particularly interested in designing maintainable component-based architectures, improving rendering performance, and building frontend systems that scale with product growth.
 
 ---
 
 ## Tech Stack
 
-**Frontend**
+### Frontend Engineering
 - React
 - TypeScript
 - JavaScript (ES6+)
@@ -18,28 +18,41 @@ Currently focused on strengthening my expertise in modern frontend technologies 
 - CSS3
 - Material UI
 
-**Backend Integration**
-- Java (PrimeFaces)
+### Systems & Integration
 - REST APIs
+- Java (PrimeFaces)
 - PL/SQL
 
-**Tools & Workflow**
+### Workflow
 - Git
 - GitHub
-- Agile / Sprint methodology
+- Agile methodologies
 
 ---
 
-## Current Focus
+## What I Care About
 
-- Frontend architecture best practices
-- Performance optimization
-- Clean and scalable component design
-- Building production-ready React projects
+- Scalable frontend architecture
+- Clean component abstractions
+- Performance-driven development
+- Long-term maintainability
+- Product-oriented UI systems
+
+---
+
+## Currently Building
+
+Strengthening advanced React patterns and developing production-grade personal projects focused on real-world frontend architecture.
+
+---
+
+## Open To
+
+Remote international frontend opportunities where I can contribute to modern, product-focused engineering teams.
 
 ---
 
 ## Connect
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bettercallandru/)
+- LinkedIn: https://linkedin.com/in/bettercallandru
 - Email: adriansalgado.wtch@gmail.com
